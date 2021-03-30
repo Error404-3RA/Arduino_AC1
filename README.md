@@ -27,6 +27,7 @@ Oie eu sou a Lourenne, tenho 16 anos entrei no Módulo no primeiro ano do Fundam
 
 Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamental I e eu serei responsável pela correção de erros do código, a leitura do sensor de temperatura, seu teste e de parte dos comentários que serão feitos ao decorrer do projeto.
 
+
 ## DOCUMENTAÇÃO DO PROJETO
 - Ajuste dos erros no código principal.
 - Documentação do projeto do github no README.md abordando todos os pontos necessários.
