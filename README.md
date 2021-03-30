@@ -43,4 +43,6 @@ Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamen
 - 1	Verde LED
 - 1	Azul LED
 - 2	Botão
+- 1	Fotorresistor
+- 
 
