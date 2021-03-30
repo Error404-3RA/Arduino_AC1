@@ -40,3 +40,6 @@ Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamen
 - 1	Arduino Uno R3
 - 1	Vermelho LED
 - 6	1 kΩ Resistor
+- 1	Verde LED
+
+
