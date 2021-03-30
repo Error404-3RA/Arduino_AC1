@@ -58,7 +58,8 @@ ledAzul(false);
  Serial.println("luminosidade alta"); 
  }else{
     ledVerde(false); 
-  	
+ Serial.println("luminosidade ideal");
+}
   delay(10);
 }
 
