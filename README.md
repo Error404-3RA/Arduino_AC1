@@ -37,4 +37,5 @@ Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamen
 - Implementação das funcionalidades faltantes.
 
 ## COMPONENTES DO CIRCUITO 
-U1	1	Arduino Uno R3
+- 1	Arduino Uno R3
+- 1	Vermelho LED
