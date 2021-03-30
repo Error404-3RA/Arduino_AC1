@@ -55,10 +55,10 @@ ledAzul(false);
   }
 //alteração da luminosidade
  if(getLuminosidade() > 5){
-   ledVerde(true);
+   ledVerde(true); //led liga quando a luminosidade for maior que 5
  Serial.println("luminosidade alta"); 
  }else{
-    ledVerde(false); 
+    ledVerde(false); //led desliga quando a luminosidade é abaixo de 5
  Serial.println("luminosidade ideal");
 }
   delay(10);
