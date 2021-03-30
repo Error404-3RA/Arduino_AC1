@@ -59,7 +59,7 @@ ledAzul(false);
  Serial.println("luminosidade alta"); //imprime a leitura
  }else{
     ledVerde(false); //led desliga quando a luminosidade é abaixo de 5
- Serial.println("luminosidade ideal");
+ Serial.println("luminosidade ideal"); //imprimi a leitura 
 }
   delay(10);
 }
