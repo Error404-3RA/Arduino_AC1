@@ -53,6 +53,7 @@ void loop()
 ledAzul(false); 
     // troca de falso para false
   }
+ if(getTemperatura() > 5){
   	
   delay(10);
 }
