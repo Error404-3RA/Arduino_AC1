@@ -44,6 +44,7 @@ void loop()
   	Serial.println("botao 2 apertado");
     ledVermelho(false);
   	lastDebounceTime1 = millis();
+	  
   }
   
   if(getTemperatura() > 30){
