@@ -53,6 +53,7 @@ void loop()
 ledAzul(false); 
     // troca de falso para false
   }
+//alteração da luminosidade
  if(getLuminosidade() > 5){
    ledVerde(true);
  Serial.println("luminosidade alta"); 
