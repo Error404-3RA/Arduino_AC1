@@ -53,7 +53,8 @@ void loop()
 ledAzul(false); 
     // troca de falso para false
   }
- if(getTemperatura() > 5){
+ if(getLuminosidade() > 5){
+   ledVerde(true);
   	
   delay(10);
 }
