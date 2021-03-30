@@ -55,7 +55,7 @@ ledAzul(false);
   }
  if(getLuminosidade() > 5){
    ledVerde(true);
-	 
+ Serial.println("luminosidade alta"); 
  }else{
     ledVerde(false); 
   	
