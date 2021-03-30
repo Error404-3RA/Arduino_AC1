@@ -36,3 +36,5 @@ Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamen
 - Usar do Serial o max possível, sempre informando os estados da produção e demais itens.
 - Implementação das funcionalidades faltantes.
 
+## COMPONENTES DO CIRCUITO 
+U1	1	Arduino Uno R3
