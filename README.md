@@ -33,5 +33,4 @@ Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamen
 - Documentação do projeto do github no README.md abordando todos os pontos necessários.
 - No README.md adicionando nome do grupo fotos e short bio de cada integrante.
 - Todos os pontos do código devem estar comentados corretamente informando o que se passa ali.
-- Usar do Serial o max possível, sempre informando os estados da produção e demais itens.
-- Implementação das funcionalidades faltantes.
+
