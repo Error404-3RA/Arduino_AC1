@@ -59,8 +59,8 @@ ledAzul(false);
 void ledVermelho(bool estado){
 	digitalWrite(vermelho,estado);
 }
-void ledVerde(){
- //precisa fazer  
+void ledVerde(bool estado){
+        digitalWrite(verde,estado);
 }
 void ledAzul(bool estado){
 	digitalWrite(azul,estado);
