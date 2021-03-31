@@ -48,4 +48,5 @@ Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamen
 
 ## FUNCIONALIDADES DO PROJETO
 1. Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
+- como fizemos: acrescentamos um botão e ligamos os dois ao LED vermelho, aplicamos a função para que ao apertar um botão o LED ligue e ao apertar outro o LED apague.
 
