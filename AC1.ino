@@ -76,7 +76,7 @@ void ledVerde(bool estado){ // add o valor true ou false na varialvel
 void ledAzul(bool estado){ //add o valor true ou false na variavel
 	digitalWrite(azul,estado);//ativa o valor true ou false
 }
-
+//medição de temperatura em celsius
 int getTemperatura(){
   	int temperaturaC;
 	temperaturaC = map(((analogRead(A0) - 20) * 3.04), 0, 1023, -40, 125);
