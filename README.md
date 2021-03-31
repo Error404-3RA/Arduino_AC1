@@ -20,19 +20,19 @@ Somos um grupo de amigos desde o 1º ano do ensino médio e formamos o time Erro
 
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-28%20at%2014.54.28.jpeg)
 
-Oie eu sou a Jennifer, tenho 16 anos entrei no Módulo no primeiro ano do Ensino Médio e eu serei responsável pela parte da codificação da leitura do sensor de luminosidade, o seu teste e a parte dos comentários que será feita ao decorrer do projeto.
+Oie eu sou a Jennifer, tenho 16 anos entrei no Módulo no primeiro ano do Ensino Médio e eu fui responsável pela parte da codificação da leitura do sensor de luminosidade, o seu teste e a parte dos comentários que será feita ao decorrer do projeto.
 
 **Lourenne Vieira Flavio**
 
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/Lourenne.jfif)
 
-Oie eu sou a Lourenne, tenho 16 anos entrei no Módulo no primeiro ano do Fundamental I e eu serei responsável pela parte do circuito no TinkerCad, a codificação do segundo botão e de parte dos comentários que serão feitos ao decorrer do projeto.
+Oie eu sou a Lourenne, tenho 16 anos entrei no Módulo no primeiro ano do Fundamental I e eu fui responsável pela parte do circuito no TinkerCad, a codificação do segundo botão e de parte dos comentários que serão feitos ao decorrer do projeto.
 
 **Rafael Zerbini Palos**
 
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/image2%20(5).jpeg)
 
-Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamental I e eu serei responsável pela correção de erros do código, a leitura do sensor de temperatura, seu teste e de parte dos comentários que serão feitos ao decorrer do projeto.
+Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamental I e fui responsável pela correção de erros do código, a leitura do sensor de temperatura, seu teste e de parte dos comentários que serão feitos ao decorrer do projeto.
 
 
 ## DOCUMENTAÇÃO DO PROJETO
