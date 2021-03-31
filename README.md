@@ -30,7 +30,7 @@ Oie eu sou a Lourenne, tenho 16 anos entrei no Módulo no primeiro ano do Fundam
 
 **Rafael Zerbini Palos**
 
-![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-28%20at%2014.57.48.jpeg)
+![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/image2%20(5).jpeg)
 
 Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamental I e eu serei responsável pela correção de erros do código, a leitura do sensor de temperatura, seu teste e de parte dos comentários que serão feitos ao decorrer do projeto.
 
