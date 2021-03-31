@@ -47,4 +47,5 @@ Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamen
 - 1	Sensor de temperatura [TMP36]
 
 ## FUNCIONALIDADES DO PROJETO
+1. Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
 
