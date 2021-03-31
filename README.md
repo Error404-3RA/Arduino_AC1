@@ -50,3 +50,4 @@ Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamen
 1. Um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
 - como fizemos: acrescentamos um botão e ligamos os dois ao LED vermelho, aplicamos a função para que ao apertar um botão o LED ligue e ao apertar outro o LED apague.
 2. Leitura do sensor de temperatura e teste, ao atingir 15℃ o led azul deve acender, deve ser informado via serial e somente apagar o led quando a temperatura for mais baixa que isso.
+- como fizemos: conectamos o LED azul ao sensor de temperatura,transformando a temperatura em graus Celsius, aplicamos a função para que quando a temperatura for maior que 15° a luz acenda e ao contrário apague, sempre mostrando o resultado no Serial.
