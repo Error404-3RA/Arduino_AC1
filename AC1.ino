@@ -50,7 +50,7 @@ void loop()
   //if temperatura
   if(getTemperatura() > 15){
     ledAzul(true);//se a temperatura for maior que 15 LED acende
-  Serial.println("temperatura alta");
+  Serial.println("temperatura alta");//imprime a leitura
   }else{
     ledAzul(false);//se for menor que 15 LED apaga
     // troca de falso para false
