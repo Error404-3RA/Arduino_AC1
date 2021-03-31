@@ -83,7 +83,7 @@ int getTemperatura(){
 	//leitura da entrada do censor e conversão para graus celsius
   	return temperaturaC;
 } 
-
+//medição de luminosidade
 int getLuminosidade(){
   	int luminosidade;
 	luminosidade = map(analogRead(A1), 6, 619, -3, 10);
