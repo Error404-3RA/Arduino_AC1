@@ -51,4 +51,5 @@ Oie eu sou o Rafael, tenho 16 anos entrei no Módulo no terceiro ano do Fundamen
 - como fizemos: acrescentamos um botão e ligamos os dois ao LED vermelho, aplicamos a função para que ao apertar um botão o LED ligue e ao apertar outro o LED apague.
 2. Leitura do sensor de temperatura e teste, ao atingir 15℃ o led azul deve acender, deve ser informado via serial e somente apagar o led quando a temperatura for mais baixa que isso.
 - como fizemos: conectamos o LED azul ao sensor de temperatura,transformando a temperatura em graus Celsius, aplicamos a função para que quando a temperatura for maior que 15° a luz acenda e ao contrário apague, sempre mostrando o resultado no Serial.
-3.Leitura do sensor de luminosidade e teste, ao indicar um valor acima de 5 a luminosidade do ambiente está muito alta, deve ser informado via serial e o led verde deve permanecer aceso até a luminosidade diminuir.
+3. Leitura do sensor de luminosidade e teste, ao indicar um valor acima de 5 a luminosidade do ambiente está muito alta, deve ser informado via serial e o led verde deve permanecer aceso até a luminosidade diminuir.
+- como fizemos: conectamos o LED verde ao sensor de luminosidade, aplicamos a função para que quando a luminosidade do ambiente for  maior que 5 o LED fique aceso e quando for menor a luz apague, sempre mostrandoo resultado no Serial.
