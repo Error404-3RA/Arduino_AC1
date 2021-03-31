@@ -80,6 +80,7 @@ void ledAzul(bool estado){ //add o valor true ou false na variavel
 int getTemperatura(){
   	int temperaturaC;
 	temperaturaC = map(((analogRead(A0) - 20) * 3.04), 0, 1023, -40, 125);
+	//leitura da entrada do censor e conversão para graus celsius
   	return temperaturaC;
 } 
 
