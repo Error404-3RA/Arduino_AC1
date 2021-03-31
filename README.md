@@ -10,7 +10,7 @@ Montagem por: Lourenne Vieira
 
 ## INTEGRANTES
 
-**GRUPO
+**GRUPO**
 
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/image1%20(15).jpeg)
 
