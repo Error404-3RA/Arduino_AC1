@@ -9,6 +9,12 @@ Aqui você encontrará a documentação do projeto e short bio dos integrantes!
 Montagem por: Lourenne Vieira
 
 ## INTEGRANTES
+
+**GRUPO
+
+![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/image1%20(15).jpeg)
+
+
 **Jennifer Abigail Margiotta Lamonica Crespo**
 
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/WhatsApp%20Image%202021-03-28%20at%2014.54.28.jpeg)
