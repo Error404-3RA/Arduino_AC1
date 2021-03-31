@@ -14,6 +14,7 @@ Montagem por: Lourenne Vieira
 
 ![](https://github.com/Error404-3RA/Arduino_AC1/blob/main/image1%20(15).jpeg)
 
+Somos um grupo de amigos desde o 1º ano do ensino médio e formamos o time Error 404. Fomos contratados por uma farmacêutica para realizarmos uma automoção. 
 
 **Jennifer Abigail Margiotta Lamonica Crespo**
 
