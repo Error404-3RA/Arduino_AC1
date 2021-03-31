@@ -51,7 +51,7 @@ void loop()
   if(getTemperatura() > 15){
     ledAzul(true);//se a temperatura for maior que 15 LED acende
   }else{
-ledAzul(false); 
+    ledAzul(false);//se for menor que 15 LED apaga
     // troca de falso para false
   }
 //alteração da luminosidade
