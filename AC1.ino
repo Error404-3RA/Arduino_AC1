@@ -73,7 +73,7 @@ void ledVermelho(bool estado){
 void ledVerde(bool estado){ // add o valor true ou false na varialvel 
         digitalWrite(verde,estado);//ativa o valor true ou false
 }
-void ledAzul(bool estado){
+void ledAzul(bool estado){ //add o valor true ou false na variavel
 	digitalWrite(azul,estado);
 }
 
