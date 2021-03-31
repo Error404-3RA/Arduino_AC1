@@ -53,7 +53,7 @@ void loop()
   Serial.println("temperatura alta");//imprime a leitura
   }else{
     ledAzul(false);//se for menor que 15 LED apaga
-  Serial.println("temperatura baixa");
+  Serial.println("temperatura baixa");//imprime a leitura
     // troca de falso para false
   }
 //alteração da luminosidade
