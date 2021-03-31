@@ -46,8 +46,8 @@ void loop()
   	lastDebounceTime1 = millis();
 	  
   }
-  
-  if(getTemperatura() > 30){
+  //mudança de temperatura de 30 para 15
+  if(getTemperatura() > 15){
     ledAzul(true);
   }else{
 ledAzul(false); 
@@ -85,4 +85,3 @@ int getLuminosidade(){
 	luminosidade = map(analogRead(A1), 6, 619, -3, 10);
   	return luminosidade;
 }
-
